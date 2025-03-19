@@ -4,4 +4,15 @@ Welcome to Hackathon 2025! We’re thrilled to have you join us for an exciting 
 
 So dive in, code fearlessly, and let’s make this an unforgettable experience. 
 
+# Topic Codes
+
+- AI-Driven Entity Intelligence & Risk Analysis - `aidel`
+- AI-Driven Hyper-Personalization & Recommendations - `aidhp`
+- Context-Aware Testing System for Financial Ecosystems - `catfe`
+- Gen AI enabled Integrated Platform Environment - `gaipl`
+- Gen AI Orchestrator for Email and Document Triage/Routing - `gaied`
+- Gen AI-Based Data Profiling - `gaidp`
+- Smarter Reconciliation and Anomaly Detection using Gen AI - `sradg`
+
+
 ## Happy hacking! 🚀

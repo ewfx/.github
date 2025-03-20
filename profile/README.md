@@ -14,7 +14,9 @@ So dive in, code fearlessly, and let’s make this an unforgettable experience.
 - Gen AI-Based Data Profiling - `gaidp`
 - Smarter Reconciliation and Anomaly Detection using Gen AI - `sradg`
 
-# FAQs
+## FAQs
 Read our [FAQs here](https://github.com/ewfx/help/blob/main/README.md)
 
-## Happy hacking! 🚀
+## Raising an Issue
+Raise an issue by creating a new issue [here](https://github.com/ewfx/help/issues)
+**Happy hacking! 🚀**

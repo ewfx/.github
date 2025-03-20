@@ -4,7 +4,7 @@ Welcome to Hackathon 2025! We’re thrilled to have you join us for an exciting 
 
 So dive in, code fearlessly, and let’s make this an unforgettable experience. 
 
-# Topic Codes
+# Challenges
 
 - AI-Driven Entity Intelligence & Risk Analysis - `aidel`
 - AI-Driven Hyper-Personalization & Recommendations - `aidhp`

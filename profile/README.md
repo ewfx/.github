@@ -1,24 +1,26 @@
-# Welcome to Hackathon-2025
+# 🚀 Welcome to Hackathon 2026
 
-Welcome to Hackathon 2025! We’re thrilled to have you join us for an exciting event filled with innovation, collaboration, and problem-solving. Over the next few days, you’ll have the opportunity to bring your ideas to life, tackle real-world challenges, and push the boundaries of technology. Whether you're here to build something groundbreaking, learn from industry experts, or connect with like-minded peers, this hackathon is your platform to shine. 
+A virtual hackathon for 2026 engineering-college graduates. `[Date: TBD]`, 4-5 hour build window.
 
-So dive in, code fearlessly, and let’s make this an unforgettable experience. 
+## Getting started
+1. Make sure you've accepted your org invite (check your email, including spam).
+2. Your repo is at `github.com/ewfx/hack26-<your-github-username>` — you should already have push access.
+3. Read the [help FAQ](https://github.com/ewfx/help) before asking a question there.
+4. Problem statements go live at kickoff — check back here and the help repo then.
 
-# Challenges
+## Links
+- 📋 [Submission template](https://github.com/ewfx/hackathon-template) (already the basis for your repo — don't fork it, just work in your own repo)
+- ❓ [Help / FAQ / raise a question](https://github.com/ewfx/help)
 
-- AI-Driven Entity Intelligence & Risk Analysis - `aidel`
-- AI-Driven Hyper-Personalization & Recommendations - `aidhp`
-- Context-Aware Testing System for Financial Ecosystems - `catfe`
-- Gen AI enabled Integrated Platform Environment - `gaipl`
-- Gen AI Orchestrator for Email and Document Triage/Routing - `gaied`
-- Gen AI-Based Data Profiling - `gaidp`
-- Smarter Reconciliation and Anomaly Detection using Gen AI - `sradg`
+## Repo naming
+Your repo is named `hack26-<your-github-username>`. It doesn't change even if
+you switch problem statements — just update `submission.yaml` at your repo
+root with the prefix of the problem statement you're attempting.
 
-## FAQs
-Read our [FAQs here](https://github.com/ewfx/help/blob/main/README.md)
-
-## Get Help
-Get help by creating a new issue [here](https://github.com/ewfx/help/issues)
-
-##
-**Happy hacking! 🚀**
+## Key times
+| | |
+|---|---|
+| Kickoff / problem statements announced | `[TBD]` |
+| Code freeze | `[TBD]` |
+| Demo-link grace window closes | 30 min after freeze |
+| Finale (shortlist demos to the panel) | `[TBD]` |

@@ -1,26 +1,38 @@
-# 🚀 Welcome to Hackathon 2026
+# Code"IT"On 2026
 
-A virtual hackathon for 2026 engineering-college graduates. `[Date: TBD]`, 4-5 hour build window.
+Saturday 5 December, 4:00 PM to Sunday 6 December, 6:00 AM, at Wells Fargo, Carnation Building, Bangalore.
 
-## Getting started
-1. Make sure you've accepted your org invite (check your email, including spam).
-2. Your repo is at `github.com/ewfx/hack26-<your-github-username>` — you should already have push access.
-3. Read the [help FAQ](https://github.com/ewfx/help) before asking a question there.
-4. Problem statements go live at kickoff — check back here and the help repo then.
+You'll work in teams of 5 on one of 10 problem statements. Each team gets its own private repository in this organisation.
 
-## Links
-- 📋 [Submission template](https://github.com/ewfx/hackathon-template) (already the basis for your repo — don't fork it, just work in your own repo)
-- ❓ [Help / FAQ / raise a question](https://github.com/ewfx/help)
-
-## Repo naming
-Your repo is named `hack26-<your-github-username>`. It doesn't change even if
-you switch problem statements — just update `submission.yaml` at your repo
-root with the prefix of the problem statement you're attempting.
+## Before the event
+1. Accept your invite to the `ewfx` organisation. GitHub sends it to the email on your GitHub account (check spam). Invites expire after 7 days.
+2. Once teams are set up, your team repo will show up on GitHub, for example `ewfx/hack26-uc03-t07`. You can pick your team name on the day.
+3. Clone your repo and push a small test commit. If you get a 404 or 403, raise an issue in the help repo now rather than on the night.
+4. On Friday 4 December your problem statement will be added to your repo as `USE_CASE.md`. Do a `git pull` to get it.
 
 ## Key times
 | | |
 |---|---|
-| Kickoff / problem statements announced | `[TBD]` |
-| Code freeze | `[TBD]` |
-| Demo-link grace window closes | 30 min after freeze |
-| Finale (shortlist demos to the panel) | `[TBD]` |
+| Problem statements in your repo | Fri 4 Dec |
+| Build starts | Sat 5 Dec, 4:00 PM |
+| Code freeze (repos become read-only) | Sun 6 Dec, 6:00 AM |
+| Finalists announced | Sun 6 Dec, morning |
+
+There is no grace period after the freeze.
+
+## A few rules
+- Only what's on `main` at 6:00 AM gets evaluated, so push often.
+- Add your demo video link to `artifacts/demo/DEMO.md` before 6:00 AM.
+- Work in your team repo. Please don't fork the template, and don't edit `submission.yaml`.
+- Run the self-check after major changes: Actions > Submission self-check > Run workflow.
+- Don't commit passwords, API keys or real personal/customer data. Use synthetic data.
+- Teams and problem statements can't be changed.
+
+## Help
+For GitHub issues (invites, access, pushing, the self-check), open an issue in the [help repo](https://github.com/ewfx/help/issues) with your team, GitHub username and the error you see. Everyone can read these issues, so never paste a password, token or key.
+
+For travel, food, attendance or team changes, contact the recruitment team: [contact].
+
+## Links
+- [Help and FAQ](https://github.com/ewfx/help)
+- [Submission template](https://github.com/ewfx/hackathon-template) (your team repo is already based on it)

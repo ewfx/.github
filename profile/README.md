@@ -1,6 +1,6 @@
 # Code"IT"On 2026
 
-Saturday 5 December, 4:00 PM to Sunday 6 December, 6:00 AM, at Wells Fargo, Carnation Building, Bangalore.
+Hackathon build phase starts Saturday 5 December, 4:00 PM to Sunday 6 December, 6:00 AM, at Wells Fargo, Carnation Building, Bangalore.
 
 You'll work in teams of 5 on one of 10 problem statements. Each team gets its own private repository in this organisation.
 

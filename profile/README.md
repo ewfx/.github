@@ -37,4 +37,3 @@ For travel, food, attendance or team changes, contact the recruitment team: [con
 
 ## Links
 - [Help and FAQ](https://github.com/ewfx/help)
-- [Submission template](https://github.com/ewfx/hackathon-template) (your team repo is already based on it)

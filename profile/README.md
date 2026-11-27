@@ -8,7 +8,7 @@ You'll work in teams of 5 on one of 10 problem statements. Each team gets its ow
 
 ## Before the event
 1. Accept your invite to the `ewfx` organisation. GitHub sends it to the email on your GitHub account (check spam). Invites expire after 7 days.
-2. Once teams are set up, your team repo will show up on GitHub, for example `ewfx/hack26-uc03-t07`. You can pick your team name on the day of the event.
+2. Once teams are set up, your team repo will show up on GitHub, for example `ewfx/codeiton-uc03-t07`. You can pick your team name on the day of the event.
 3. Clone your repo and push a small test commit. If you get a 404 or 403, raise an issue in the help repo now rather than on the day of the event.
 4. On Friday 4 December your problem statement will be added to your repo as `USE_CASE.md`. Do a `git pull` to get it.
 

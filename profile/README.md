@@ -2,6 +2,8 @@
 
 Hackathon build phase starts Saturday 5 December, 4:00 PM to Sunday 6 December, 6:00 AM, at Wells Fargo, Carnation Building, Bangalore.
 
+**New here? Read the [Participant Guide](https://github.com/ewfx/help/blob/main/PARTICIPANT_GUIDE.md).**
+
 You'll work in teams of 5 on one of 10 problem statements. Each team gets its own private repository in this organisation.
 
 ## Before the event
